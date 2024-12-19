@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "CKkkx3rxxkaoOYPaddAGjf5rmVELbrYNpQnMMWtiphk=",
+  "Source": "DBEncryptionTest",
+  "BasePath": "_content/DBEncryptionTest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
